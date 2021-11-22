@@ -2,9 +2,11 @@
 
 ## UO Coding bootcamp Challenge 3
 
-##Links
+## Links
 
 Github Pages [Link](https://duckarroyo.github.io/passwordgenerator)
+
+GitHub Repo [Link](https://github.com/DuckArroyo/challenge3)
 
 # Description
 
