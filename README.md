@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 
-## UO Coding bootcamp Challenge
+## UO Coding bootcamp Challenge 3
 
 ##Links
 
