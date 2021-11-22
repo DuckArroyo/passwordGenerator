@@ -30,4 +30,4 @@ DeveloperDuckArroyo
 
 # Screnshots
 
-<img src="./assets/PasswordGen.jpg" style="width: 400px">
+<img src="./Develop/PasswordGen.jpg" style="width: 400px">
