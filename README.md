@@ -4,7 +4,7 @@
 
 ## Links
 
-Github Pages [Link](https://duckarroyo.github.io/passwordgenerator)
+Github Pages [Link](https://duckarroyo.github.io/challenge3)
 
 GitHub Repo [Link](https://github.com/DuckArroyo/challenge3)
 
